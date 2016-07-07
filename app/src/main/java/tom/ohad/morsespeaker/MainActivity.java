@@ -1,4 +1,4 @@
-package texttospeech.ohad.texttospeech;
+package tom.ohad.morsespeaker;
 
 import android.speech.tts.TextToSpeech;
 import android.support.v7.app.AppCompatActivity;

@@ -1,4 +1,4 @@
-package texttospeech.ohad.texttospeech;
+package tom.ohad.morsespeaker;
 
 import org.junit.Test;
 
